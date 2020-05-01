@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CorePatch.iml" filepath="$PROJECT_DIR$/CorePatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/CorePatch-app.iml" filepath="$PROJECT_DIR$/app/CorePatch-app.iml" group="CorePatch/app" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-CorePatch.iml" filepath="$PROJECT_DIR$/StudioProjects-CorePatch.iml" group="CorePatch" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\Project\CorePatch\toolkit.iml" filepath="D:\Project\CorePatch\toolkit.iml" />
+      <module fileurl="file://D:/Project/CorePatch/toolkit.iml" filepath="D:/Project/CorePatch/toolkit.iml" />
     </modules>
   </component>
 </project>
